@@ -1,3 +1,5 @@
+[English](README.en.md) | [简体中文](README.md)
+
 # Electron Forge React Vite 模板
 
 🚀 现代化 Electron 桌面应用开发模板，集成 React 19、Vite、Tailwind CSS 4、TypeScript。
